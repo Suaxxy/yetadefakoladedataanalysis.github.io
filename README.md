@@ -6,7 +6,7 @@ Detailed Data Analyst well-versed in various statistical methods such as descrip
 Advanced Microsoft Office skills. Excellent interpersonal skills, and the ability to communicate with people at all levels. Well-organized and able to manage multiple requirements simultaneously.
 Ability to manage priorities according to the demands of the project environment. Skilled in presenting to groups and delivering training in a variety of mediums.
 
-## SKILLS
+### SKILLS
 Predictive Modeling
 
 Recommendations for Action
@@ -18,14 +18,14 @@ Statistic Analysis
 Administrative and management
 
 ### WORK EXPEREIENCE
-Data Analyst Intern Brainnest – Bremen
+##### Data Analyst Intern Brainnest – Bremen
 09/2022 to 01/2023
  
 Completed data cleaning and data validation of existing spreadsheets to promote robust data management platform, resulting in accurate data analysis and entry.
 Monitored and controlled data upload, checking for successful data import and quality. Performed routine tasks under direct supervision and within established procedures and guidelines.
 Identified, analyzed, and interpreted trends or patterns in complex data sets by finding correlations and visualizing with charts.
  
-Data Analytics Intern/Virtual Intern KPMG – Australia 
+##### Data Analytics Intern/Virtual Intern KPMG – Australia 
 06/2022 to 08/2022
  
 Used Excel and Tableau to analyze conversion rates across multiple digital channels. Identified, analyzed and interpreted trends or patterns in complex data sets by finding correlations and visualizing with charts.
@@ -33,7 +33,7 @@ Utilized various professional statistical techniques and maintained large databa
 Completed data cleaning and data validation of existing spreadsheets to promote robust data management platform, resulting in accurate data analysis and entry.
 
  
-Administrative / Account Officer Raumplus Nigeria Limited – Lagos, Nigeria
+##### Administrative / Account Officer Raumplus Nigeria Limited – Lagos, Nigeria
 02/2018 to 11/2021
  
 Managed files and records for clients and adhered to safety procedures to prevent breaches and data misuse.
@@ -42,16 +42,16 @@ Supervised and guided new employees and responded quickly to questions to improv
 Prepared reports to assist business leaders with key decision making and strategic operational planning.
 
  
-Research Analyst
+##### Research Analyst
 University of Ibadan – Ibadan, Nigeria
 05/2018 to 11/2019
 
-Analyzed statistical data using both modern and traditional methods.   Interpreted data and made recommendations from findings.
+Analyzed statistical data using both modern and traditional methods. Interpreted data and made recommendations from findings.
 Gathered, arranged and corrected research data to create representative graphs and charts highlighting results for presentations.
 Validated incoming data to check information accuracy and integrity while independently locating and correcting concerns.
 
  
-Administrative Assistant Africareer – Lagos, Nigeria
+##### Administrative Assistant Africareer – Lagos, Nigeria
  06/2016 to 04/2017
  
 Answered multi-line phone system, routing calls, delivering messages to staff and greeting visitors.
