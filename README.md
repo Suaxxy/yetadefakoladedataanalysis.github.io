@@ -8,9 +8,13 @@ Ability to manage priorities according to the demands of the project environment
 
 ## SKILLS
 Predictive Modeling
+
 Recommendations for Action
+
 Excel Formulas
+
 Statistic Analysis
+
 Administrative and management
 
 ### WORK EXPEREIENCE
