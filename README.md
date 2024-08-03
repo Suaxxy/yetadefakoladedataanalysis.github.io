@@ -60,20 +60,29 @@ Sorted and distributed office mail and recorded incoming shipments for corporate
 
 ### EDUCATION
 Data Analytics : ReDI School of Digital Integration GmbH - Germany	12/2023
+
 Masters: System Administration (Education) : University of Ibadan - Ibadan, Nigeria	11/2019
+
 Bachelor: History Education : Adekunle Ajasin University - Akungba Akoko, Nigeria	01/2016
 
 ### CERTIFICATIONS
 Certified Google Data Analyst
+
 Data Analytics on AWS
+
 Entry Level Data Analyst
+
 Getting Started with Power BI Desktop
+
 Fundamentals of Visualization with Tableau
+
 SQL for data Science
+
 IBM data analytics with Excel and R Professional Certificate
 
 ### LANGUAGES
 English : C2
+
 German : B1
 .
 
