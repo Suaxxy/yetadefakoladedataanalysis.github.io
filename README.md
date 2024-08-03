@@ -42,8 +42,7 @@ Supervised and guided new employees and responded quickly to questions to improv
 Prepared reports to assist business leaders with key decision making and strategic operational planning.
 
  
-##### Research Analyst
-University of Ibadan – Ibadan, Nigeria
+##### Research Analyst University of Ibadan – Ibadan, Nigeria
 05/2018 to 11/2019
 
 Analyzed statistical data using both modern and traditional methods. Interpreted data and made recommendations from findings.
